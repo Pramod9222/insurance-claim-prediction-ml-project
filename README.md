@@ -1,5 +1,22 @@
+### Author 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod-kusmude-115b1b285)
+[![GitHub Followers](https://img.shields.io/github/followers/Pramod9222?label=Followers&style=social)](https://github.com/Pramod9222)
+[![GitHub Watchers](https://img.shields.io/github/watchers/Pramod9222/insurance-claim-prediction-ml-project?label=Watchers&style=social)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
+[![GitHub Stars](https://img.shields.io/github/stars/Pramod9222/insurance-claim-prediction-ml-project?style=social)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
+[![GitHub Forks](https://img.shields.io/github/forks/Pramod9222/insurance-claim-prediction-ml-project?style=social)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
 
 
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project)
+
+
+[![GitHub Issues](https://img.shields.io/github/issues/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project/issues)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project/pulls)
+[![GitHub Closed PRs](https://img.shields.io/github/issues-pr-closed/Pramod9222/insurance-claim-prediction-ml-project)](https://github.com/Pramod9222/insurance-claim-prediction-ml-project/pulls?q=is%3Apr+is%3Aclosed)
+[![HitCount](http://hits.dwyl.com/Pramod9222/insurance-claim-prediction-ml-project.svg)](http://hits.dwyl.com/Pramod9222/insurance-claim-prediction-ml-project)
 
 
 # Problem Statement : 
